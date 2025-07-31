@@ -6,6 +6,5 @@ langchain
 langchain-google-genai
 langchain-community
 PyMuPDF
-openvoice
 melo
 pydantic
